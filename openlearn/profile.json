@@ -1,0 +1,81 @@
+{
+  "background": {
+    "summary": "comfortable reading structure and debugging basic issues, but wants stronger foundations and more independence when starting from scratch",
+    "experience": [
+      "comfortable with structure",
+      "can debug basic issues",
+      "strong terminal experience"
+    ],
+    "strengths": [
+      "syntax basics",
+      "reading code",
+      "debugging",
+      "breaking problems into steps"
+    ],
+    "weaknesses": [
+      "independence",
+      "foundational theory",
+      "starting from a blank page"
+    ],
+    "pace": "moderate depth",
+    "priorities": [
+      "understanding why",
+      "writing it myself",
+      "debugging confidence",
+      "transferable thinking"
+    ],
+    "approach": {
+      "unknown_code": [
+        "read line by line",
+        "run it and inspect behavior"
+      ],
+      "learning_style": [
+        "ask me questions"
+      ],
+      "frustrations": [
+        "copying without understanding",
+        "hidden magic",
+        "blank page problem"
+      ],
+      "self_view": "needs foundations"
+    },
+    "concepts": {
+      "data_structures": "comfortable in practice with common structures, but wants more depth and has little experience with trees",
+      "algorithms": "can follow examples and break problems into steps, but wants more theory"
+    },
+    "tooling": {
+      "terminal": "strong",
+      "git": "comfortable with status/add/commit, branching basics, remote workflows, and simple conflict resolution",
+      "project_tooling": "comfortable",
+      "strongest_domain": "cli/tools"
+    },
+    "languages": {
+      "non_trivial": [
+        "c",
+        "rust",
+        "go",
+        "python"
+      ],
+      "limited_exposure": [
+        "c++",
+        "assembly"
+      ],
+      "confidence": "comfortable in at least one language",
+      "orientation": "prefers backend and low-level languages"
+    },
+    "systems": {
+      "backend": "comfortable with basic APIs, database basics, and auth basics",
+      "frontend": "comfortable with HTML/CSS basics and DOM/events, but frontend is not the main strength",
+      "data_and_networking": "comfortable with SQL basics, HTTP basics, and using APIs"
+    },
+    "project_preferences": {
+      "best_learning_project": [
+        "rebuild core tools"
+      ]
+    }
+  },
+  "analogies": true,
+  "mode": "theory",
+  "docs": "auto",
+  "learning_goal": "understand concepts deeply, explain what code is doing, and apply ideas across any language"
+}

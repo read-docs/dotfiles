@@ -1,0 +1,10 @@
+*
+
+
+!.gitignore
+
+!opencode/
+!opencode/**
+
+!openlearn/
+!openlearn/**
