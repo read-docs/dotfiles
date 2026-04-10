@@ -8,3 +8,8 @@
 
 !openlearn/
 !openlearn/**
+
+!tmux/
+!tmux/**
+
+!.zshrc
