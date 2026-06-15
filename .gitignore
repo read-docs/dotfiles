@@ -9,6 +9,9 @@
 !openlearn/
 !openlearn/**
 
+!hypr/
+!hypr/**
+
 !tmux/
 !tmux/**
 
