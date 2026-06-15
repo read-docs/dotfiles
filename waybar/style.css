@@ -1,0 +1,61 @@
+@import url("colors.css");
+
+
+* {
+    border: none;
+    border-radius: 0;
+    font-family: jetbrainsmono nerd font, monospace;
+    font-weight: bold;
+    font-size: 12px;
+    min-height: 0;
+}
+
+window#waybar {
+    background-color: @black;
+    color: white;
+}
+
+#clock,
+#pulseaudio,
+#network,
+#battery {
+    background: transparent;
+    margin: 0;
+    padding: 0 0px;
+}
+
+#window {
+    padding: 0 4px
+}
+
+#workspaces {
+    padding: 0px;
+    margin-left: 15px;
+}
+#workspaces button {
+    padding: 3px 4px;
+}
+
+#workspaces button.active {
+    background-color: @graphite;
+}
+
+#workspaces button.urgent {
+    background-color: @green;
+}
+
+#custom-separator {
+    padding: 0 10px
+}
+
+#custom-tray-icon {
+    padding-left: 10px
+}
+
+#pulseaudio {
+    padding-right: 4px;
+}
+
+#clock {
+    margin-right: 15px;
+}

@@ -1,0 +1,71 @@
+/**
+ * gtk.css
+ * GTK Engine Color Palette and Theme Configurations
+ */
+
+/* ==========================================================================
+   Default Palette Variables
+   ========================================================================== */
+@define-color black #141415;
+@define-color shadow #1c1c24;
+@define-color graphite #252530;
+@define-color onyx #333738;
+@define-color muted #606079;
+@define-color gray #878787;
+@define-color white #cdcdcd;
+@define-color yellow #f3be7c;
+@define-color amber #e8b589;
+@define-color gold #e0a363;
+@define-color peach #c48282;
+@define-color red #d8647e;
+@define-color storm #405065;
+@define-color lilac #c3c3d5;
+@define-color cyan #aeaed1;
+@define-color magenta #bb9dbd;
+@define-color aqua #b4d4cf;
+@define-color lavender #90a0b5;
+@define-color teal #9bb4bc;
+@define-color blue #6e94b2;
+@define-color iris #7e98e8;
+@define-color green #7fa563;
+
+/* ==========================================================================
+   Diff State Variables
+   ========================================================================== */
+@define-color diff-add #293125;
+@define-color diff-change #41362a;
+@define-color diff-delete #3b242a;
+@define-color diff-text #6D583E;
+
+/* ==========================================================================
+   ANSI Escape Sequence Mapping
+   ========================================================================== */
+/* Normal Variance */
+@define-color ansi-normal-black #252530;
+@define-color ansi-normal-red #d8647e;
+@define-color ansi-normal-green #7fa563;
+@define-color ansi-normal-yellow #f3be7c;
+@define-color ansi-normal-blue #6e94b2;
+@define-color ansi-normal-magenta #bb9dbd;
+@define-color ansi-normal-cyan #aeaed1;
+@define-color ansi-normal-white #cdcdcd;
+
+/* Bright Variance */
+@define-color ansi-bright-black #606079;
+@define-color ansi-bright-red #e08398;
+@define-color ansi-bright-green #99b782;
+@define-color ansi-bright-yellow #f5cb96;
+@define-color ansi-bright-blue #8ba9c1;
+@define-color ansi-bright-magenta #c9b1ca;
+@define-color ansi-bright-cyan #bebeda;
+@define-color ansi-bright-white #d7d7d7;
+
+/* Dim Variance */
+@define-color ansi-dim-black #18181f;
+@define-color ansi-dim-red #8e4253;
+@define-color ansi-dim-green #536c41;
+@define-color ansi-dim-yellow #a07d51;
+@define-color ansi-dim-blue #486175;
+@define-color ansi-dim-magenta #7b677C;
+@define-color ansi-dim-cyan #727289;
+@define-color ansi-dim-white #878787;

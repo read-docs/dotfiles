@@ -16,3 +16,6 @@
 !tmux/**
 
 !.zshrc
+
+!waybar/
+!waybar/**
